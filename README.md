@@ -24,9 +24,10 @@ It covers diacritical and vowel signs in Devanagari.
 * For numbers and symbols, the replacement happens post character replacement.
 
 ## How to Use
-Enable Developer view in Word (File-> Options-> Customize Ribbon -> Check "Developer" box under "Main Tab" menu in right column)
-Click on "Visual Basic" button in Developer Tab
-Paste .bas file in Visual Basic Editor
-Save
-Close Visual Basic Editor
-
+* Enable Developer view in Word (File-> Options-> Customize Ribbon -> Check "Developer" box under "Main Tab" menu in right column)
+* Click on "Visual Basic" button in Developer Tab
+* Paste .bas file in Visual Basic Editor
+* Save
+* Close Visual Basic Editor
+* Select text in Saral Font, click on Devloper Tab, then "Macros" button (keyboard shortcut Alt+F8)
+* Select SaralToUnicode Macro and Click on Run
